@@ -479,122 +479,7 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "/CODEC_PWR_CTRL": [
-        "GPIO48"
-      ],
-      "/ESP_BOOT": [
-        "GPIO0"
-      ],
-      "/GPIO4": [
-        "GPIO4"
-      ],
-      "/GPIO5": [
-        "GPIO5"
-      ],
-      "/GPIO6": [
-        "GPIO6"
-      ],
-      "/GPIO7": [
-        "GPIO7"
-      ],
-      "/IMU_INT1": [
-        "GPIO21"
-      ],
-      "/LED_G": [
-        "U0TXD"
-      ],
-      "/POWER_CTRL": [
-        "GPIO9"
-      ],
-      "BAT_SCL": [
-        "GPIO1"
-      ],
-      "BAT_SDA": [
-        "GPIO2"
-      ],
-      "CODEC_PWR_CTRL": [
-        "GPIO48"
-      ],
-      "ESP_BOOT": [
-        "GPIO0"
-      ],
-      "I2S-BCK": [
-        "GPIO40"
-      ],
-      "I2S-DI": [
-        "GPIO3"
-      ],
-      "I2S_DO": [
-        "GPIO41"
-      ],
-      "I2S_MCLK": [
-        "GPIO42"
-      ],
-      "I2S_WS": [
-        "GPIO39"
-      ],
-      "IMU_INT1": [
-        "GPIO21"
-      ],
-      "LCD_BLK": [
-        "U0RXD"
-      ],
-      "LCD_CS": [
-        "GPIO14"
-      ],
-      "LCD_DC": [
-        "GPIO45"
-      ],
-      "LCD_RST_CTRL": [
-        "GPIO47"
-      ],
-      "LCD_SCL": [
-        "GPIO18"
-      ],
-      "LCD_SDA0": [
-        "GPIO46"
-      ],
-      "LCD_SDA1": [
-        "GPIO13"
-      ],
-      "LCD_SDA2": [
-        "GPIO11"
-      ],
-      "LCD_SDA3": [
-        "GPIO12"
-      ],
-      "LCD_TE": [
-        "GPIO8"
-      ],
-      "LED_G": [
-        "U0TXD"
-      ],
-      "PA_CTRL": [
-        "GPIO15"
-      ],
-      "POWER_CTRL": [
-        "GPIO9"
-      ],
-      "SD_CLK": [
-        "GPIO16"
-      ],
-      "SD_CMD": [
-        "GPIO38"
-      ],
-      "SD_DA0": [
-        "GPIO17"
-      ],
-      "TP_INT": [
-        "GPIO10"
-      ],
-      "USB_DN": [
-        "GPIO19"
-      ],
-      "USB_DP": [
-        "GPIO20"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -736,6 +621,14 @@
     [
       "cbd96126-2c6b-41c3-991f-657fa8ab5ecf",
       "Root"
+    ],
+    [
+      "744180c9-1053-4012-ae45-7456444db5f3",
+      "MCU"
+    ],
+    [
+      "60a4adbf-c0f1-4043-b5b5-63ad3175788c",
+      "Interface"
     ]
   ],
   "text_variables": {}
