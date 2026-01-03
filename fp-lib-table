@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "echoEarCustomFootprint")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/echoEarCustomFootprint.pretty")(options "")(descr ""))
+)

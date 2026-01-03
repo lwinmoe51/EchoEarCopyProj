@@ -1,5 +1,11 @@
 (sym_lib_table
   (version 7)
-  (lib (name "ESP32-S3-WROOM-1-N32R16V")(type "KiCad")(uri "${KIPRJMOD}/EchoEarCopy.kicad_sym")(options "")(descr ""))
-  (lib (name "FPC_FFC_1.0K-N-3PB")(type "KiCad")(uri "/home/robot/Documents/Kicad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-S3-WROOM-1-N32R16V")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/ESP32-S3-WROOM-1-N32R16V.kicad_sym")(options "")(descr ""))
+  (lib (name "_CONN_FFC_FPC_3POS_1mm_VERTICAL_1.0K_N_3PB")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/	CONN_FFC_FPC_3POS_1mm_VERTICAL_1.0K_N_3PB.kicad_sym")(options "")(descr ""))
+  (lib (name "CONN_HEADER_SMD_4POS_1.25mm_HC-1_25_4PLT")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/CONN_HEADER_SMD_4POS_1_25mm_HC-1_25_4PLT.kicad_sym")(options "")(descr ""))
+  (lib (name "CONN_HEADER_SMD_2POS_1_25mm_HC_1_25_2PTL")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/CONN_HEADER_SMD_2POS_1_25mm_HC_1_25_2PTL.kicad_sym")(options "")(descr ""))
+  (lib (name "ZX-PZ1.27-2-4PWZ")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/ZX-PZ1.27-2-4PWZ.kicad_sym")(options "")(descr ""))
+  (lib (name "BMI270_motionSensor_IMU")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/BMI270_motionSensor_IMU.kicad_sym")(options "")(descr ""))
+  (lib (name "YXT-BB10-24S-02_CONN_BoardToBoard_24POS_SMD")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/YXT-BB10-24S-02_CONN_BoardToBoard_24POS_SMD.kicad_sym")(options "")(descr ""))
+  (lib (name "8.03A0.039200")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/8.03A0.039200.kicad_sym")(options "")(descr ""))
 )
