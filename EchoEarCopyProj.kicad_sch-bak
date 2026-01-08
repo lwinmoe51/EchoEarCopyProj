@@ -94,48 +94,6 @@
 			)
 		)
 	)
-	(sheet
-		(at 12.7 34.036)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "c0e2d0bf-f80d-4c6d-8169-cc1c624585f0")
-		(property "Sheetname" "codec"
-			(at 12.7 33.3244 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "codec.kicad_sch"
-			(at 12.7 38.4306 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "EchoEarCopyProj"
-				(path "/cbd96126-2c6b-41c3-991f-657fa8ab5ecf"
-					(page "4")
-				)
-			)
-		)
-	)
 	(sheet_instances
 		(path "/"
 			(page "1")
