@@ -52,6 +52,48 @@
 		)
 	)
 	(sheet
+		(at 13.208 43.434)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6edb921d-9785-47ba-9c6c-c6db5b733e24")
+		(property "Sheetname" "P1"
+			(at 13.208 42.7224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "P1.kicad_sch"
+			(at 13.208 47.8286 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EchoEarCopyProj"
+				(path "/cbd96126-2c6b-41c3-991f-657fa8ab5ecf"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 12.7 14.732)
 		(size 12.7 3.81)
 		(exclude_from_sim no)
